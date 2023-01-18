@@ -1,6 +1,6 @@
 ---
-title: "**Análisis de Datos**"
-subtitle: "CUNEF Universidad"
+title: "**prueba**"
+subtitle: "ICMAT"
 date: "Página actualizada: `r format.Date(file.mtime('index.Rmd'),'%Y-%m-%d')`"
 output:
   html_document: ./index.html
@@ -29,7 +29,7 @@ Esta es la página del curso de Análisis de Datos creado por
 
 ## **Contenido**
 
-### Tema 0 : Introducción
+### Tema 0 : HOla que tal
   - [Diapositivas](./tema0/tema0.html)
   
 ### Tema 1 : Programación en R
