@@ -3,7 +3,7 @@ title: "**Hacer tttttt**"
 subtitle: "Datalab"
 date: "Página actualizada: `r format.Date(file.mtime('index.Rmd'),'%Y-%m-%d')`"
 output:
-  html_document:
+  html_document: ./index.html
     css: ./index.css
     toc: yes
     toc_float: yes
