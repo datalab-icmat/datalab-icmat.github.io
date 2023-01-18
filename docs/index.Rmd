@@ -1,6 +1,6 @@
 ---
-title: "**Hacer tttttt**"
-subtitle: "Datalab"
+title: "**Análisis de Datos**"
+subtitle: "CUNEF Universidad"
 date: "Página actualizada: `r format.Date(file.mtime('index.Rmd'),'%Y-%m-%d')`"
 output:
   html_document: ./index.html
