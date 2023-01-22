@@ -9,7 +9,7 @@ navbar:
       href: courses_stats.html
     - text: "Reading group"
       href: causal_reading_group.html
-    - text: "Software"
+    - text: "Software "
       href: software.html
 author: "ICMAT-Datalab"
 output:
