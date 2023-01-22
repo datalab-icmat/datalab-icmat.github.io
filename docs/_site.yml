@@ -1,0 +1,21 @@
+name: "Datalab-ICMAT"
+output_dir: "."
+navbar:
+  title: "Datalab-ICMAT"
+  left:
+    - text: "Overview"
+      href: index.html
+    - text: "Courses"
+      href: courses_stats.html
+    - text: "Reading group"
+      href: causal_reading_group.html
+    - text: "Software"
+      href: software.html
+author: "ICMAT-Datalab"
+output:
+  html_document:
+    theme: readable
+    toc: true
+    toc_collapse: false
+    toc_depth: 3
+    toc_float: true
