@@ -1,21 +1,17 @@
-name: "hola1"
+name: "Datalab-ICMAT"
 output_dir: "."
 navbar:
-  title: "hola2"
+  title: "Datalab-ICMAT"
   left:
-    - text: "Material"
+    - text: "Overview"
       href: index.html
-    - text: "Aalto 2022"
-      href: Aalto2022.html
-    - text: "Assignments"
-      href: assignments.html
-    - text: "Project"
-      href: project.html
-    - text: "Demos"
-      href: demos.html
-    - text: "FAQ"
-      href: FAQ.html
-author: "Datalab"
+    - text: "Courses"
+      href: courses_stats.html
+    - text: "Reading group"
+      href: causal_reading_group.html
+    - text: "Software"
+      href: software.html
+author: "ICMAT-Datalab"
 output:
   html_document:
     theme: readable
