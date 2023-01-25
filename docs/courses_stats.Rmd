@@ -2,29 +2,16 @@
 title: "Courses"
 ---
 
-Here you will find all the material for the courses held at Datalab-ICMAT during the Bayesian Year.
+Here you will find all the material for the courses held at Datalab-ICMAT.
 
 
 
 ## Introduction to Machine Learning
 
-Register [here](https://datalab.icmat.es/bayesian-year/iml/) to the course. 
+### [Chapter 0](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter_0) 
 
-### Chapter 0
-
-* [Slides](https://github.com/datalab-icmat/Intro-to-ML/blob/main/chapter_0/MLchap0d.pdf)
-
-* [Lab (R script)](https://github.com/datalab-icmat/Intro-to-ML/blob/main/chapter_0/MLlab0.Rmd)
-
-* [Lab (.docx file)](https://github.com/datalab-icmat/Intro-to-ML/blob/main/chapter_0/MLlab0.docx)
-
-* [Dataset](https://github.com/datalab-icmat/Intro-to-ML/blob/main/chapter_0/data0.txt)
-
-
+### [Chapter 1](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter_1)
 
 ## Bayesian Data Science
-
-Register [here](https://datalab.icmat.es/bayesian-year/bds/) to the course.
-
 
 
