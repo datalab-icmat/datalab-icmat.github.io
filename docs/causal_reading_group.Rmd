@@ -16,7 +16,7 @@ More information on how to join online [here](https://datalab.icmat.es/bayesian-
 
 * 4th session. "Chapter 4: Effect modification" from "Causal Inference. What If" book. Lecturer: [Simon Rodríguez Santana](https://scholar.google.es/citations?user=9x_tXzwAAAAJ&hl=es). January 20th 2023. Click [here](https://www.youtube.com/watch?v=gHK2HszEKlM) to watch.
 
-* 3rd session. "Chapter 3: Observational studies" from "Causal Inference. What If" book. Lecturer: [Roi Naveiro](https://roinaveiro.github.io/). December 23rd 2022. Click here to watch.
+* 3rd session. "Chapter 3: Observational studies" from "Causal Inference. What If" book. Lecturer: [Roi Naveiro](https://roinaveiro.github.io/). December 23rd 2022. Click [here](https://www.youtube.com/watch?v=9xQBApfKDxY&ab_channel=InstitutodeCienciasMatem%C3%A1ticasICMAT) to watch.
 
 * 2nd session. "Chapter 2: Randomized experiments" from "Causal Inference. What If" book. Lecturer: [David Ríos Insua](https://www.davidriosinsua.es/). December 16th 2022. Click [here](https://www.youtube.com/watch?v=TjrSCCwUZbU) to watch.
 
