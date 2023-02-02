@@ -11,7 +11,13 @@ More information on how to join online [here](https://datalab.icmat.es/bayesian-
 
 ### Sessions
 
-* 5th session. "Chapter 5: Interaction" from "Causal Inference. What If" book. Lecturer: [Jose M. Camacho](https://www.icmat.es/josemanuel.camacho). January 27th 2023. Click here to watch.
+
+* 6th session. "Chapter 6: Graphical representation of causal effects" from "Causal Inference. What If" book.
+ Lecturer: [David Ríos Insua](https://www.davidriosinsua.es/). February 3rd 2023. Click here to watch.
+
+
+
+* 5th session. "Chapter 5: Interaction" from "Causal Inference. What If" book. Lecturer: [Jose M. Camacho](https://www.icmat.es/josemanuel.camacho). January 27th 2023. Click [here](https://www.youtube.com/watch?v=oLb71TDyXGg&t=2766s) to watch.
 
 
 * 4th session. "Chapter 4: Effect modification" from "Causal Inference. What If" book. Lecturer: [Simon Rodríguez Santana](https://scholar.google.es/citations?user=9x_tXzwAAAAJ&hl=es). January 20th 2023. Click [here](https://www.youtube.com/watch?v=gHK2HszEKlM) to watch.
