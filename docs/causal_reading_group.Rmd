@@ -11,9 +11,12 @@ More information on how to join online [here](https://datalab.icmat.es/bayesian-
 
 ### Sessions
 
+* 7th session. "Chapter 8: Selection bias" from "Causal Inference. What If" book.
+ Lecturer: [Ramón Díaz Uriarte](https://www.ligarto.org/rdiaz/). February 3rd 2023. Click here to watch.
+
 
 * 6th session. "Chapter 6: Graphical representation of causal effects" from "Causal Inference. What If" book.
- Lecturer: [David Ríos Insua](https://www.davidriosinsua.es/). February 3rd 2023. Click here to watch.
+ Lecturer: [David Ríos Insua](https://www.davidriosinsua.es/). February  10th 2023. Click here to watch.
 
 
 
