@@ -18,6 +18,10 @@ Here you will find all the recordings and material of the courses held at Datala
 
   * [Material](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter_1)
   
+### Chapter 2
+
+  * [Material](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter_2)
+  
 
 ## Bayesian Data Science
 
