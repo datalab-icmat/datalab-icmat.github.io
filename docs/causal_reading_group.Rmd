@@ -16,7 +16,7 @@ More information on how to join online [here](https://datalab.icmat.es/bayesian-
 
 
 * 6th session. "Chapter 6: Graphical representation of causal effects" from "Causal Inference. What If" book.
- Lecturer: [David Ríos Insua](https://www.davidriosinsua.es/). February  10th 2023. Click here to watch.
+ Lecturer: [David Ríos Insua](https://www.davidriosinsua.es/). February  10th 2023. Click [here](https://www.youtube.com/watch?v=wPuJ8tR_05s&list=PLH_XnVAPg2hzUqt8f-NWlZZZi79BmU8Jt&index=2) to watch.
 
 
 
