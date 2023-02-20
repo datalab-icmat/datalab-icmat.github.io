@@ -2,34 +2,58 @@
 title: "Reading groups"
 ---
 
-## Casual Inference and Machine Learning
+# Casual Inference and Machine Learning
 
 These sessions take place on Fridays from 12.15 pm to 1.15 pm (CET). Each week a volunteer will briefly explain a chapter or paper (related to Causal Inference) to the rest of the audience in no more than 45 minutes (ideally less). In the last >15 minutes, we will discuss the topic explained. During the explanation, participants can ask questions. The sessions will be recorded and uploaded to the ICMAT youtube channel. You can find the video links below. Besides, you will find the necessary material for these sessions in the resources section.
 
 More information on how to join online [here](https://datalab.icmat.es/bayesian-year/ciml/).
 
 
-### Sessions
+## Sessions
 
-* 7th session. "Chapter 8: Selection bias" from "Causal Inference. What If" book.
- Lecturer: [Ramón Díaz Uriarte](https://www.ligarto.org/rdiaz/). February 3rd 2023. Click here to watch.
+### 1
 
-
-* 6th session. "Chapter 6: Graphical representation of causal effects" from "Causal Inference. What If" book.
- Lecturer: [David Ríos Insua](https://www.davidriosinsua.es/). February  10th 2023. Click [here](https://www.youtube.com/watch?v=wPuJ8tR_05s&list=PLH_XnVAPg2hzUqt8f-NWlZZZi79BmU8Jt&index=2) to watch.
+"Chapter 1: A definition of causal effect" from "Causal Inference. What If" book. Lecturer: [Roi Naveiro](https://roinaveiro.github.io/). December 2nd 2022. Click [here](https://www.youtube.com/watch?v=d7St2qwIeH0) to watch.
 
 
+### 2
 
-* 5th session. "Chapter 5: Interaction" from "Causal Inference. What If" book. Lecturer: [Jose M. Camacho](https://www.icmat.es/josemanuel.camacho). January 27th 2023. Click [here](https://www.youtube.com/watch?v=oLb71TDyXGg&t=2766s) to watch.
+"Chapter 2: Randomized experiments" from "Causal Inference. What If" book. Lecturer: [David Ríos Insua](https://www.davidriosinsua.es/). December 16th 2022. Click [here](https://www.youtube.com/watch?v=TjrSCCwUZbU) to watch.
 
 
-* 4th session. "Chapter 4: Effect modification" from "Causal Inference. What If" book. Lecturer: [Simon Rodríguez Santana](https://scholar.google.es/citations?user=9x_tXzwAAAAJ&hl=es). January 20th 2023. Click [here](https://www.youtube.com/watch?v=gHK2HszEKlM) to watch.
+### 3
 
-* 3rd session. "Chapter 3: Observational studies" from "Causal Inference. What If" book. Lecturer: [Roi Naveiro](https://roinaveiro.github.io/). December 23rd 2022. Click [here](https://www.youtube.com/watch?v=9xQBApfKDxY&ab_channel=InstitutodeCienciasMatem%C3%A1ticasICMAT) to watch.
+"Chapter 3: Observational studies" from "Causal Inference. What If" book. Lecturer: [Roi Naveiro](https://roinaveiro.github.io/). December 23rd 2022. Click [here](https://www.youtube.com/watch?v=9xQBApfKDxY&ab_channel=InstitutodeCienciasMatem%C3%A1ticasICMAT) to watch.
 
-* 2nd session. "Chapter 2: Randomized experiments" from "Causal Inference. What If" book. Lecturer: [David Ríos Insua](https://www.davidriosinsua.es/). December 16th 2022. Click [here](https://www.youtube.com/watch?v=TjrSCCwUZbU) to watch.
 
-* 1st session. "Chapter 1: A definition of causal effect" from "Causal Inference. What If" book. Lecturer: [Roi Naveiro](https://roinaveiro.github.io/). December 2nd 2022. Click [here](https://www.youtube.com/watch?v=d7St2qwIeH0) to watch.
+### 4
+
+"Chapter 4: Effect modification" from "Causal Inference. What If" book. Lecturer: [Simon Rodríguez Santana](https://scholar.google.es/citations?user=9x_tXzwAAAAJ&hl=es). January 20th 2023. Click [here](https://www.youtube.com/watch?v=gHK2HszEKlM) to watch.
+
+### 5
+
+"Chapter 5: Interaction" from "Causal Inference. What If" book. Lecturer: [Jose M. Camacho](https://www.icmat.es/josemanuel.camacho). January 27th 2023. Click [here](https://www.youtube.com/watch?v=oLb71TDyXGg&t=2766s) to watch.
+
+### 6
+
+"Chapter 6: Graphical representation of causal effects" from "Causal Inference. What If" book.
+ Lecturer: [David Ríos Insua](https://www.davidriosinsua.es/). February  3rd 2023. Click [here](https://www.youtube.com/watch?v=wPuJ8tR_05s&list=PLH_XnVAPg2hzUqt8f-NWlZZZi79BmU8Jt&index=2) to watch.
+
+
+### 7
+
+"Chapter 8: Selection bias" from "Causal Inference. What If" book.
+ Lecturer: [Ramón Díaz Uriarte](https://www.ligarto.org/rdiaz/). February 10th 2023. Click [here](https://www.youtube.com/watch?v=JrjzHA1A-Ls) to watch.
+
+### 8
+
+"Chapter 7: Confounding" from "Causal Inference. What If" book.
+ Lecturer: [Juan F. Poyatos](http://wwwuser.cnb.csic.es/~jpoyatos/Home/Home.html). February 17th 2023. Click here to watch.
+
+### 9 
+
+"Quantum information tools that deal with causality ". The session is based on: [[1](https://arxiv.org/abs/1609.00672)], [[2](https://arxiv.org/abs/1707.06476 )], [[3](https://arxiv.org/abs/1909.10519)].
+Lecturer: [Alex Pozas](https://www.alexpozas.com/home). February 24th 2023. Click here to watch.
 
 
 

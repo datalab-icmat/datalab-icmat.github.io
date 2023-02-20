@@ -7,7 +7,7 @@ Below we provide a list of software implemented in the research developed in Dat
 ## Health
 
 
-*  [A predictive Bayesian network model for cardiovascular risk factors.](https://github.com/jmcamachor1/CVD_GeNIe_network) You can read more details about the research [here](https://arxiv.org/pdf/2112.13963.pdf).
+*  [A predictive Bayesian network model for cardiovascular risk factors.](https://github.com/jmcamachor1/CVD_GeNIe_network) You can read more details about the research [here](https://www.sciencedirect.com/science/article/pii/S016926072300072X).
    
 
 
