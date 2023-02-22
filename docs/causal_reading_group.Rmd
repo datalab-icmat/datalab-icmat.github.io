@@ -48,7 +48,7 @@ More information on how to join online [here](https://datalab.icmat.es/bayesian-
 ### 8
 
 "Chapter 7: Confounding" from "Causal Inference. What If" book.
- Lecturer: [Juan F. Poyatos](http://wwwuser.cnb.csic.es/~jpoyatos/Home/Home.html). February 17th 2023. Click here to watch.
+ Lecturer: [Juan F. Poyatos](http://wwwuser.cnb.csic.es/~jpoyatos/Home/Home.html). February 17th 2023. Click [here](https://www.youtube.com/watch?v=I4k0I8R7R8A&t=1s) to watch.
 
 ### 9 
 
