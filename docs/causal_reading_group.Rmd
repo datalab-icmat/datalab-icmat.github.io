@@ -28,7 +28,7 @@ More information on how to join online [here](https://datalab.icmat.es/bayesian-
 
 ### 4
 
-"Chapter 4: Effect modification" from "Causal Inference. What If" book. Lecturer: [Simon Rodríguez Santana](https://scholar.google.es/citations?user=9x_tXzwAAAAJ&hl=es). January 20th 2023. Click [here](https://www.youtube.com/watch?v=gHK2HszEKlM) to watch.
+"Chapter 4: Effect modification" from "Causal Inference. What If" book. Lecturer: [Simón Rodríguez Santana](https://scholar.google.es/citations?user=9x_tXzwAAAAJ&hl=es). January 20th 2023. Click [here](https://www.youtube.com/watch?v=gHK2HszEKlM) to watch.
 
 ### 5
 
@@ -54,6 +54,12 @@ More information on how to join online [here](https://datalab.icmat.es/bayesian-
 
 "Quantum information tools that deal with causality ". The session is based on: [[1](https://arxiv.org/abs/1609.00672)], [[2](https://arxiv.org/abs/1707.06476 )], [[3](https://arxiv.org/abs/1909.10519)].
 Lecturer: [Alex Pozas](https://www.alexpozas.com/home). February 24th 2023. Click here to watch.
+
+### 10
+
+"Chapter 9: Measurement bias" from "Causal Inference. What If" book.
+ Lecturer: [Simón Rodríguez Santana](https://scholar.google.es/citations?user=9x_tXzwAAAAJ&hl=es). March 3rd 2023. Click [here](https://www.youtube.com/watch?v=I4k0I8R7R8A&t=1s) to watch.
+
 
 
 
