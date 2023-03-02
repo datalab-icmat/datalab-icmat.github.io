@@ -53,7 +53,7 @@ More information on how to join online [here](https://datalab.icmat.es/bayesian-
 ### 9 
 
 "Quantum information tools that deal with causality ". The session is based on: [[1](https://arxiv.org/abs/1609.00672)], [[2](https://arxiv.org/abs/1707.06476 )], [[3](https://arxiv.org/abs/1909.10519)].
-Lecturer: [Alex Pozas](https://www.alexpozas.com/home). February 24th 2023. Click here to watch.
+Lecturer: [Alex Pozas](https://www.alexpozas.com/home). February 24th 2023. Click [here](https://www.youtube.com/watch?v=RCcEY6KJhaY&list=PLH_XnVAPg2hzUqt8f-NWlZZZi79BmU8Jt&index=1&t=6s) to watch.
 
 ### 10
 
