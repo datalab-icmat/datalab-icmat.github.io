@@ -58,8 +58,13 @@ Lecturer: [Alex Pozas](https://www.alexpozas.com/home). February 24th 2023. Clic
 ### 10
 
 "Chapter 9: Measurement bias" from "Causal Inference. What If" book.
- Lecturer: [Simón Rodríguez Santana](https://scholar.google.es/citations?user=9x_tXzwAAAAJ&hl=es). March 3rd 2023. Click here to watch.
+ Lecturer: [Simón Rodríguez Santana](https://scholar.google.es/citations?user=9x_tXzwAAAAJ&hl=es). March 3rd 2023. Click [here](https://www.youtube.com/watch?v=ByVCDquxfCU) to watch.
 
+
+### 11 
+
+"Chapter 10: Random Variability" from "Causal Inference. What If" book.
+ Lecturer: [Roi Naveiro](https://roinaveiro.github.io/). March 10th 2023. Click here to watch.
 
 
 
