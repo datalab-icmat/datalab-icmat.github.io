@@ -64,8 +64,8 @@ Lecturer: [Alex Pozas](https://www.alexpozas.com/home). February 24th 2023. Clic
 ### 11 
 
 "Chapter 10: Random Variability" from "Causal Inference. What If" book.
- Lecturer: [Roi Naveiro](https://roinaveiro.github.io/). March 10th 2023. Click here to watch.
-
+ Lecturer: [Roi Naveiro](https://roinaveiro.github.io/). March 10th 2023. Click [here](https://www.youtube.com/watch?v=JVErPA-h3aM) to watch.
+ 
 
 
 ### Resources
