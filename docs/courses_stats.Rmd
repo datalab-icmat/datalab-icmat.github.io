@@ -54,6 +54,10 @@ Here you will find all the recordings and material of the courses held at Datala
 ### Chapter 7. Neural nets.
 
   * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter_7)
+  
+### Chapter 8. Convolutional Neural Nets.
+
+  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter_8)
 
 ## Bayesian Data Science
 

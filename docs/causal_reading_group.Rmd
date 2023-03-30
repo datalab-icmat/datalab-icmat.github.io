@@ -70,6 +70,10 @@ Lecturer: [Alex Pozas](https://www.alexpozas.com/home). February 24th 2023. Clic
  
 "Casually (and causally?) playing with a large health database".
  Lecturer: [David Ríos Insua](https://www.davidriosinsua.es/). March 17th 2023. Click [here](https://www.youtube.com/watch?v=oE94JnvU5ek&list=PLH_XnVAPg2hwSIGIvgK7aCd0U0TYnblFq&index=1) to watch.
+ 
+### 13
+
+"Mendelian Randomization: Using genetic variability as an instrumental variable in Causal Inference". Lecturer: [Fátima Sánchez Cabo](https://www.cnic.es/es/fatima-sanchez-cabo-0). Friday 31st 2023. Click here to watch.
 
 ### Resources
 
