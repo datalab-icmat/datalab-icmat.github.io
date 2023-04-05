@@ -73,7 +73,7 @@ Lecturer: [Alex Pozas](https://www.alexpozas.com/home). February 24th 2023. Clic
  
 ### 13
 
-"Mendelian Randomization: Using genetic variability as an instrumental variable in Causal Inference". Lecturer: [Fátima Sánchez Cabo](https://www.cnic.es/es/fatima-sanchez-cabo-0). Friday 31st 2023. Click here to watch.
+"Mendelian Randomization: Using genetic variability as an instrumental variable in Causal Inference". Lecturer: [Fátima Sánchez Cabo](https://www.cnic.es/es/fatima-sanchez-cabo-0). Friday 31st 2023. Click [here](https://www.youtube.com/watch?v=2LB20U9rvVc) to watch.
 
 ### Resources
 
