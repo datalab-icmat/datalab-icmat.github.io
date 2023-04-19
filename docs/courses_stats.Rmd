@@ -51,18 +51,19 @@ Here you will find all the recordings and material of the courses held at Datala
   * [Recording](https://www.youtube.com/watch?v=W04JWfDeTFk)
   
 
-### Chapter 7. Neural nets.
+### Chapter 7. Neural nets and deep learning.
 
   * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter_7)
   
-  * [Recording](https://www.youtube.com/watch?v=OP3oeHX68RU&list=PLH_XnVAPg2hybRQzVStDdsPYEj46buoAq&index=2)
+  * [Recording 1](https://www.youtube.com/watch?v=OP3oeHX68RU&list=PLH_XnVAPg2hybRQzVStDdsPYEj46buoAq&index=2)
   
-### Chapter 8. Convolutional Neural Nets.
+  * [Recording 2](https://www.youtube.com/watch?v=N77eHWGiin0&list=PLH_XnVAPg2hybRQzVStDdsPYEj46buoAq&index=1)
+
+  
+### Chapter 8. Unsupervised learning.
 
   * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter_8)
   
-  * [Recording](https://www.youtube.com/watch?v=N77eHWGiin0&list=PLH_XnVAPg2hybRQzVStDdsPYEj46buoAq&index=1)
-
 ## Bayesian Data Science
 
 
