@@ -66,4 +66,12 @@ Here you will find all the recordings and material of the courses held at Datala
   
 ## Bayesian Data Science
 
+### Chapter 0. Motivation.
+
+  * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/chapter_0)
+  
+### Chapter 1. Key concepts through basic models.
+
+  * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/chapter_1)
+
 
