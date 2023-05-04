@@ -72,6 +72,8 @@ Here you will find all the recordings and material of the courses held at Datala
 
   * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter_9)
   
+  * [Recording](https://www.youtube.com/watch?v=LKQHkT8WDtc)
+  
 ## Bayesian Data Science
 
 ### Chapter 0. Motivation.
@@ -83,5 +85,7 @@ Here you will find all the recordings and material of the courses held at Datala
 ### Chapter 1. Key concepts through basic models.
 
   * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/chapter_1)
+  
+  * [Recording](https://www.youtube.com/watch?v=2plexX4dYDw)
 
 
