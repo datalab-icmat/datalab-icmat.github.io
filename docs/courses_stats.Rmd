@@ -74,6 +74,10 @@ Here you will find all the recordings and material of the courses held at Datala
   
   * [Recording](https://www.youtube.com/watch?v=LKQHkT8WDtc)
   
+### Chapter 10. Ethical and security issues in ML.
+
+  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter__10)
+  
 ## Bayesian Data Science
 
 ### Chapter 0. Motivation.
