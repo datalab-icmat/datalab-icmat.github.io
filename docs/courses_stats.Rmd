@@ -10,50 +10,50 @@ Here you will find all the recordings and material of the courses held at Datala
 
 ### Chapter 0. Organization.
 
- * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter_0) 
+ * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/0.%20Organization) 
  
  * [Recording](https://www.youtube.com/watch?v=vqUmOd5-EOA)
 
-### Chapter 1. General introduction.
+### Chapter 1. Intro to ML.
 
-  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter_1)
+  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/1.%20Intro%20to%20ML)
   
   * [Recording](https://www.youtube.com/watch?v=7wtLJV4ti0A&list=PLH_XnVAPg2hzUqt8f-NWlZZZi79BmU8Jt&index=2&t=2s)
   
-### Chapter 2. Regression models.
+### Chapter 2. Advanced Linear Regression models.
 
-  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter_2)
+  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/2.%20Advanced%20Linear%20Regression%20Models)
   
   * [Recording](https://www.youtube.com/watch?v=Dzsa0GJTCv4&t=24s)
   
-### Chapter 3. Classification. Basic concepts.
+### Chapter 3. Linear classification models.
 
-  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter_3)
+  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/3.%20Linear%20classification%20models)
   
   * [Recording](https://www.youtube.com/watch?v=jro15wp9A9s)
 
-### Chapter 4. Tree based algorithms for Regression and Classification. 
+### Chapter 4. Tree based algorithms for Classification and Regression. 
 
-  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter_4)
+  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/4.%20Tree%20based%20algos%20(classif.%20%26%20reg.%20))
   
   * [Recording](https://www.youtube.com/watch?v=UxPWoE-cuaU&list=PLH_XnVAPg2hybRQzVStDdsPYEj46buoAq&index=2)
 
 ### Chapter 5. Probabilistic Graphical Models.
 
-  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter_5)
+  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/5.%20Probabilistic%20graphical%20models)
   
   * [Recording](https://www.youtube.com/watch?v=Q6xrVA_gIKw&list=PLH_XnVAPg2hybRQzVStDdsPYEj46buoAq)
   
 ### Chapter 6. Support Vector Machines.
 
-  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter_6)
+  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/6.%20Support%20vector%20machines)
   
   * [Recording](https://www.youtube.com/watch?v=W04JWfDeTFk)
   
 
-### Chapter 7. Neural nets and deep learning.
+### Chapter 7. Deep learning.
 
-  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter_7)
+  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/7.%20Deep%20learning)
   
   * [Recording 1](https://www.youtube.com/watch?v=OP3oeHX68RU&list=PLH_XnVAPg2hybRQzVStDdsPYEj46buoAq&index=2)
   
@@ -62,33 +62,33 @@ Here you will find all the recordings and material of the courses held at Datala
   * [Recording 3](https://www.youtube.com/watch?v=8-AGaWe7mtM&t=1s)
 
   
-### Chapter 8. Unsupervised learning.
+### Chapter 8. Intro to unsupervised learning.
 
-  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter_8)
+  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/8.%20Intro%20to%20unsupervised%20learning)
   
   * [Recording](https://www.youtube.com/watch?v=5M8-YD6FfRQ)
   
-### Chapter 9. Reinforcement learning.
+### Chapter 9. Deep reinforcement learning.
 
-  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter_9)
+  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/9.%20Deep%20reinforcement%20learning)
   
   * [Recording](https://www.youtube.com/watch?v=LKQHkT8WDtc)
   
-### Chapter 10. Ethical and security issues in ML.
+### Chapter 10. Ethics and security of ML.
 
-  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/chapter__10)
+  * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/10.%20Ethics%20and%20security%20of%20ML)
   
 ## Bayesian Data Science
 
 ### Chapter 0. Motivation.
 
-  * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/chapter_0)
+  * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/0.%20Motivation)
   
   * [Recording](https://www.youtube.com/watch?v=JhJxiSOO7jk)
   
 ### Chapter 1. Key concepts through basic models.
 
-  * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/chapter_1)
+  * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/1.%20Key%20concepts%20through%20basic%20models)
   
   * [Recording](https://www.youtube.com/watch?v=2plexX4dYDw)
 
