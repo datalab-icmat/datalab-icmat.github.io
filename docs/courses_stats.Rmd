@@ -92,7 +92,7 @@ Here you will find all the recordings and material of the courses held at Datala
   
   * [Recording](https://www.youtube.com/watch?v=2plexX4dYDw)
   
-### Chapter 2. Overview fo Bayesian computational methods.
+### Chapter 2. Overview of Bayesian computational methods.
 
   * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/2.%20Overview%20of%20Bayesian%20Computational%20methods)
 
