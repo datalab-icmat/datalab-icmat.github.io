@@ -96,3 +96,8 @@ Here you will find all the recordings and material of the courses held at Datala
 
   * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/2.%20Overview%20of%20Bayesian%20Computational%20methods)
 
+### Chapter 3. Intro to MCMC. From Gibbs to Hamilton.
+
+  * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/3.%20%20Intro%20to%20MCMC)
+  
+  
