@@ -90,18 +90,21 @@ Here you will find all the recordings and material of the courses held at Datala
 
   * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/1.%20Key%20concepts%20through%20basic%20models)
   
-  * [Recording](https://www.youtube.com/watch?v=2plexX4dYDw)
+  * [Recording 1](https://www.youtube.com/watch?v=2plexX4dYDw)
+  
+  * [Recording 2](https://www.youtube.com/watch?v=AY2CXBHkLP0)
   
 ### Chapter 2. Overview of Bayesian computational methods.
 
   * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/2.%20Overview%20of%20Bayesian%20Computational%20methods)
   
-  * [Recording](https://www.youtube.com/watch?v=AY2CXBHkLP0)
+  * [Recording](https://www.youtube.com/watch?v=Y_mxIKbVXbw)
+  
 
 ### Chapter 3. Intro to MCMC. From Gibbs to Hamilton.
 
   * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/3.%20%20Intro%20to%20MCMC)
   
-  * [Recording](https://www.youtube.com/watch?v=Y_mxIKbVXbw)
+  
   
   
