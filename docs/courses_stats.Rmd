@@ -78,6 +78,8 @@ Here you will find all the recordings and material of the courses held at Datala
 
   * [Materials](https://github.com/datalab-icmat/Intro-to-ML/tree/main/10.%20Ethics%20and%20security%20of%20ML)
   
+  * [Recording](https://www.youtube.com/watch?v=0c8nyUuENjc)
+  
 ## Bayesian Data Science
 
 ### Chapter 0. Motivation.
