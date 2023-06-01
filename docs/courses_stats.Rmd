@@ -107,6 +107,8 @@ Here you will find all the recordings and material of the courses held at Datala
 
   * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/3.%20%20Intro%20to%20MCMC)
   
+  * [Recording](https://www.youtube.com/watch?v=cDWTzhV5M9w)
+  
   
   
   
