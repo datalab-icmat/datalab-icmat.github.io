@@ -110,6 +110,11 @@ Here you will find all the recordings and material of the courses held at Datala
   * [Recording 1](https://www.youtube.com/watch?v=cDWTzhV5M9w)
   
   * [Recording 2](https://www.youtube.com/watch?v=AeFOkOrs2pY)
+
+### Chapter 4. Computations for Bayesian Decision Analysis.
+
+  * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/4.%20Computations%20for%20Bayesian%20Decision%20Analysis)
+  
   
   
   
