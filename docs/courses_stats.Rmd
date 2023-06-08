@@ -114,7 +114,10 @@ Here you will find all the recordings and material of the courses held at Datala
 ### Chapter 4. Computations for Bayesian Decision Analysis.
 
   * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/4.%20Computations%20for%20Bayesian%20Decision%20Analysis)
-  
+
+### Chapter 5. Large scale Bayesian inference.
+
+  * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/5.%20Large%20scale%20Bayesian%20inference)
   
   
   
