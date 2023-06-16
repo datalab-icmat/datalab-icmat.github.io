@@ -122,7 +122,13 @@ Here you will find all the recordings and material of the courses held at Datala
   * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/5.%20Large%20scale%20Bayesian%20inference)
   
   * [Recording](https://www.youtube.com/watch?v=YDd90K-_QQw&list=PLH_XnVAPg2hxZ8gAB5-TPkCsYEm6QEG0f)
-  
-  
-  
-  
+
+### Chapter 6. Machine Learning models from a Bayesian perspective.
+
+#### 6.1 Bayesian neural nets and deep learning
+
+  * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/6.1%20Bayesian%20neural%20nets%20and%20deep%20learning)
+
+#### 6.2 Belief nets
+
+  * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/6.2%20Belief%20nets)
