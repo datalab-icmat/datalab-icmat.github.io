@@ -125,6 +125,8 @@ Here you will find all the recordings and material of the courses held at Datala
 
 ### Chapter 6. Machine Learning models from a Bayesian perspective.
 
+  * [Recording](https://www.youtube.com/watch?v=fcjBc4rEjpw)
+
 #### 6.1 Bayesian neural nets and deep learning
 
   * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/6.1%20Bayesian%20neural%20nets%20and%20deep%20learning)
@@ -132,3 +134,6 @@ Here you will find all the recordings and material of the courses held at Datala
 #### 6.2 Belief nets
 
   * [Materials](https://github.com/datalab-icmat/Bayesian-Data-Science/tree/main/6.2%20Belief%20nets)
+  
+  
+  
