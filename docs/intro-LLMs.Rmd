@@ -1,0 +1,6 @@
+---
+title: "Reading Group: Intro to LLMs"
+---
+
+All information for this reading group available [here](https://llms-cunef-icmat-rg2024.github.io/)!
+
