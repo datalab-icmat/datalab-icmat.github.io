@@ -7,9 +7,9 @@ navbar:
       href: index.html
     - text: "Courses"
       href: courses_stats.html
-    - text: "Reading group"
+    - text: "Reading Group: Causal Inference"
       href: causal_reading_group.html
-    - text: "Intro to LLMs"
+    - text: "Reading Group: Intro to LLMs"
       href: intro-LLMs.html
     - text: "Software"
       href: software.html
