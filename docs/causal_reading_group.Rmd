@@ -2,6 +2,13 @@
 title: "Reading groups"
 ---
 
+
+# Intro to LLMs
+
+
+All information for this reading group available [here](https://llms-cunef-icmat-rg2024.github.io/)!
+
+
 # Casual Inference and Machine Learning
 
 These sessions take place on Fridays from 12.15 pm to 1.15 pm (CET). Each week a volunteer will briefly explain a chapter or paper (related to Causal Inference) to the rest of the audience in no more than 45 minutes (ideally less). In the last >15 minutes, we will discuss the topic explained. During the explanation, participants can ask questions. The sessions will be recorded and uploaded to the ICMAT youtube channel. You can find the video links below. Besides, you will find the necessary material for these sessions in the resources section.
