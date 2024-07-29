@@ -4,6 +4,13 @@ title: "Software"
 
 Below we provide a list of software implemented in the research developed in Datalab-ICMAT:
 
+
+## Adversarial Risk Analysis
+
+* [Algoritmic decision analysis for multi-stage games with incomplete information.](https://github.com/jmcamachor1/ADT)You can read more details about the research [here]().
+
+
+
 ## Health
 
 
